@@ -1,18 +1,29 @@
-# Hi, I'm Eben 👋
+# Eben Owen
 
-QC/IO Specialist and post-production professional based in London. Five years across broadcast, CTV, OLV, social and DOOH for clients including Amazon and LEGO. On the side I build AI-powered tools.
+**QC & Delivery Specialist** based in London. Five years in post-production making sure every asset leaves on spec, on time and right first time, across broadcast, CTV, OLV, VOD, social and DOOH for Amazon, LEGO, Mars and other global brands.
+
+🌐 [ebenowen.com](https://ebenowen.com) · 💼 [LinkedIn](https://www.linkedin.com/in/eben-owen-532204a7) · 🎬 [Vimeo](https://vimeo.com/ebenowen) · 🎞️ [IMDb](https://www.imdb.com/name/nm11963214/)
+
+## What I do
+
+- Technical and visual QC against broadcast and platform specs
+- Encoding, versioning and multi-market delivery (Telestream Vantage, Adstream, Peach, Clearcast)
+- Ingest, metadata and archive in MAM systems
+- AI workflow automation for post-production teams
+
+## Experience
+
+- **QC/IO Specialist**, Flawless AI (2026). Led the QC ingest process and trained the team on workflows.
+- **Edit Assistant (QC & Delivery)**, Omnicom Production, formerly eg+ worldwide (2022–2026). Promoted from Junior Edit Assistant. Designed three AI agents on Omnicom's enterprise platform for compliance reporting, media plan analysis and delivery emails.
+- **Junior Online Editor**, The Picture Production Company (2021). Trailers and TV spots for Viacom, Paramount and Universal.
 
 ## Building
 
-**[Slate](https://slate-sable-iota.vercel.app)** — clean invoices for creative freelancers with zero payment fees.
+- **[Quits](https://getquits.uk)**: invoicing for freelancers, trades and creatives, with zero payment fees.
+- **[Vetta](https://roommatch.me)**: property and HMO management for London landlords.
 
-**RoomMatch** — intelligent tenant matching and inquiry automation for house-share landlords.
+Both built with AI-assisted development.
 
-## Background
+## Education
 
-- QC Analyst at Omnicom Production, 2022–2026. Progressed from Junior Online Editor through Edit Assistant. Built three AI agents on Omnicom's internal platform for compliance reporting, media plan research and campaign workflow automation.
-- BA Media Production (First Class), University of South Wales
-
-## Elsewhere
-
-[Portfolio](https://ebenowen.com) · [LinkedIn](https://www.linkedin.com/in/eben-owen-532204a7)
+BA (Hons) Media Production, First Class, University of South Wales
